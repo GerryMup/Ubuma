@@ -69,9 +69,9 @@ body, html {
 
 .contact_column {
   float:left;
-  width:33.33333%;
+  width:50%;
   padding:1px;
-  height:15px;
+  height:50px;
 } 
 
 .contact_row:after {
@@ -110,7 +110,13 @@ body, html {
   <div class="w3-display-left w3-text-white" style="padding:48px">
     <span class="w3-jumbo w3-hide-small" >Ubuma African Leadership Course</span><br>
     <span class="w3-large">A Future of Glory and Dignity</span>
-  </div> 
+  </div>
+  <div class="w3-display-left w3-text-white" style="padding:10px">
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <span class="w3-large"><i class="fa fa-facebook-official w3-hover-opacity"></i></span>
+    <span class="w3-large"><i class="fa fa-instagram w3-hover-opacity"></i></span>
+    <span class="w3-large"><i class="fa fa-twitter w3-hover-opacity"></i></span>
+  </div>
 </header>
 
 <!-- About Section -->
@@ -318,19 +324,17 @@ body, html {
   <div class="w3-center">
     <div class="contact_row">
       <div class="contact_column">
-        <p>Mike Mpanya</p>
-        <p>072 921 8210</p>
-        <p>Mike.Mpanya@wits.ac.za</p>
+        <h5>Handles for Ubuma Leadership</h5>
+        <p>Twitter: @UbumaL</p>
+        <p>Instagram: @ubumaleadership</p>
+        <p>Email: ubumaleadership@gmail.com</p>
       </div>
       <div class="contact_column">
-        <p>Mike Mpanya</p>
-        <p>072 921 8210</p>
-        <p>Mike.Mpanya@wits.ac.za</p>
-      </div>
-      <div class="contact_column">
-        <p>Mike Mpanya</p>
-        <p>072 921 8210</p>
-        <p>Mike.Mpanya@wits.ac.za</p>
+        <h5>Handles for BMI</h5>
+        <p>Twitter: @Simbizo</p>
+        <p>Instagram: @blackmensimbizo</p>
+        <p>Facebook: BlackMen's Imbizo</p>
+        <p>Email: blackmensimbizo@gmail.com</p>
       </div>
     </div>
   </div>
