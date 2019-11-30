@@ -253,26 +253,26 @@ body, html {
       <div class="w3-row-padding" margin="center">
         <div class="w3-col l3 m6 w3-margin-bottom">
           <div class="w3-card">
-            <img src="/public/images/pic1.jpg" alt="John" style="width:94%">
+            <img src="public/images/pic1.jpg" alt="John" style="width:94%">
           </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
           <div class="w3-card">
-            <img src="/public/images/pic2.jpg" alt="Jane" style="width:100%">
+            <img src="public/images/pic2.jpg" alt="Jane" style="width:100%">
             <div class="w3-container">
             </div>
           </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
           <div class="w3-card">
-            <img src="/public/images/pic3.jpg" alt="Mike" style="width:100%">
+            <img src="public/images/pic3.jpg" alt="Mike" style="width:100%">
             <div class="w3-container">
             </div>
           </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
           <div class="w3-card">
-            <img src="/public/images/pic4.jpg" alt="Mike" width="300px" height="250px">
+            <img src="public/images/pic4.jpg" alt="Mike" width="300px" height="250px">
             <div class="w3-container">
             </div>
           </div>
@@ -286,17 +286,17 @@ body, html {
       <div class="w3-row-padding" margin="50px">
         <div class="w3-col l3 m6 w3-margin-bottom">
           <div class="w3-card">
-            <img src="/public/images/img-1.jpg" alt="John" width="285px" height="215px">
+            <img src="public/images/img-1.jpg" alt="John" width="285px" height="215px">
           </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
           <div class="w3-card">
-            <img src="/public/images/img-2.jpg" alt="Jane" style="width:100%">
+            <img src="public/images/img-2.jpg" alt="Jane" style="width:100%">
           </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
           <div class="w3-card">
-            <img src="/public/images/img-3.jpg" alt="Mike" width="302px" height="215px">
+            <img src="public/images/img-3.jpg" alt="Mike" width="302px" height="215px">
           </div>
         </div>
       </div>
